@@ -5,10 +5,17 @@ There is a page to manage categories and accounts. Accounts and categories can h
 There is a page to view your spending habits by category and account. You can choose a date range.
 
 <h3>Add transaction page</h3>
+
 ![Screenshot](budget-demo-1.png)
+
 <h3>Manage transaction page</h3>
+
 ![Screenshot](budget-demo-1-2.png)
+
 <h3>Add and manage categories and accounts page</h3>
+
 ![Screenshot](budget-demo-2.png)
+
 <h3>Reports page</h3>
+
 ![Screenshot](budget-demo-3.png)
